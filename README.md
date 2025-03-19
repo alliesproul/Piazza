@@ -45,4 +45,4 @@ Request body:
 Delete Existing Post:
 DELETE /api/post/:postId
 
-The header for most requests must contain the auth-toekn 
+The header for most requests must contain the auth-token 
