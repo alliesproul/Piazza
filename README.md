@@ -29,8 +29,10 @@ Request body:
   "description": "string",
   "likes": "number"
 }
+
 Retrieve all posts:
 GET /api/post
+
 Retrieve post by ID:
 GET /api/post/:postId
 
@@ -42,6 +44,7 @@ Request body:
   "description": "string",
   "likes": "number"
 }
+
 Delete Existing Post:
 DELETE /api/post/:postId
 
